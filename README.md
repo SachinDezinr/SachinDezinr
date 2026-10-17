@@ -39,23 +39,8 @@
 ## About Me
 
 I'm an MCA student, UI/UX designer, and creative developer interested in building clear, useful, and engaging web experiences. I bring design thinking into development and enjoy turning ideas into working products.
+```
 
-```ts
-const sachin = {
-  role: ["MCA Student", "UI/UX Designer", "Creative Developer"],
-  focus: ["Interface design", "Web development", "Digital experiences"],
-  frontend: ["React", "HTML", "CSS", "TypeScript"],
-  backend: ["Node.js"],
-  databases: ["PostgreSQL", "Supabase", "Neon"],
-  tools: ["GitHub", "Claude", "Vibe coding"],
-  projects: [
-    "SMDB",
-    "QR Code Based Restaurant Menu",
-    "Campus Utility System",
-  ],
-  certifications: [],
-  availability: "Open to work",
-};
 ```
 
 ## Selected Projects
