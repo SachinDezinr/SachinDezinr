@@ -6,6 +6,7 @@
 
 <a href="https://sachinpanwar.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-0f172a?style=for-the-badge" /></a>
 <a href="https://www.linkedin.com/in/sachin-panwar-dezinr"><img src="https://img.shields.io/badge/LinkedIn-6366f1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/SachinDezinr"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="mailto:sachinpanwar.dev@gmail.com"><img src="https://img.shields.io/badge/Email_Me-0f172a?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
@@ -56,10 +57,18 @@ Read the news and play old-school arcade games on the same page.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=SachinDezinr&show_icons=true&theme=transparent&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinDezinr&layout=compact&theme=transparent&hide_border=true" />
 
 </div>
+
+<br/>
+
+## 🎯 Right now
+
+- 🔭 Building new apps and improving the ones above
+- 📚 Getting better at backend and databases
+- 🌱 Looking for my first dev role or internship
 
 <br/>
 
